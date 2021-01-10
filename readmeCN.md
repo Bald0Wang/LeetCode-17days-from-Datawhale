@@ -1,5 +1,7 @@
 # Datawhale 举办的 17天LeetCode刷题假期学习（2021年）
 
+[中文](./readmeCN.md)|[英文](./README.md)
+
 Datawhale的LeetCode小组实践（2021年寒假）。我将用Java（或python）编写。
 
 > 自我介绍
