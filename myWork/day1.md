@@ -8,7 +8,7 @@
 >
 > 都是java写的  以后就刚java
 
-![image-20210111232501368](C:\Users\MECHREVO\AppData\Roaming\Typora\typora-user-images\image-20210111232501368.png)
+![image-20210111232501368](./p1.png)
 
 写完的话已经11点25分嗯 今天感觉自己太弱了  还在玩耍  。
 
@@ -16,7 +16,7 @@
 
 ###  题目
 
-![image-20210111232739357](C:\Users\MECHREVO\AppData\Roaming\Typora\typora-user-images\image-20210111232739357.png)
+![image-20210111232739357](./p2.png)
 
 ###  说说这个题的思路  我觉得比较好的想法
 
@@ -63,7 +63,7 @@ public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
 
 这个题首先去写的话 我个人觉得最直观的方法就是两个合起来出一个新的数组然后直觉取下标。
 
-![image-20210111233308948](C:\Users\MECHREVO\AppData\Roaming\Typora\typora-user-images\image-20210111233308948.png)
+![image-20210111233308948](./p3.png)
 
 我自己其实也尝试直觉算到/2的位置，奈何我不行。，
 
@@ -71,7 +71,7 @@ public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
 
 首先88题也贴过来
 
-![image-20210111233341354](C:\Users\MECHREVO\AppData\Roaming\Typora\typora-user-images\image-20210111233341354.png)
+![image-20210111233341354](./p4.png)
 
 可以说是母子题了然后解题如下
 
@@ -119,7 +119,7 @@ class Solution {
 
 ##  3.最长回文数（LeetCode 5）
 
-![image-20210111233657366](C:\Users\MECHREVO\AppData\Roaming\Typora\typora-user-images\image-20210111233657366.png)
+![image-20210111233657366](./p5.png)
 
 这个题不用多说，大手子门都知道。我等菜菜先膜拜。
 
